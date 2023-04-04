@@ -1,0 +1,56 @@
+body{ text-align: center;
+    margin: 0; }
+h1{ margin-top: 0px;
+    margin-bottom: 0px;
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+
+
+.divclass1 {background-color: #add6fc ;
+            padding-left:10px;
+            border-color: black;
+            border: 2px;
+            position: relative;
+            padding-top: 100px;
+        }
+        .bottom-container { margin-top: 0px;
+                            margin-bottom: 0PX;
+            background-color: #AA96DA;
+
+        }
+.profile{ background-color:#FDFFBC;
+                  font-size: 40px;
+                  padding-bottom: 40px;
+
+}      
+.skills { background-color:#F6416C }
+
+.propic{
+        padding-top: 50px;
+}
+.cloudimg{height: 80pxx;
+          position: absolute;
+           margin-left : 200px ;
+          margin-bottom: 100px ;
+           padding-left: 250px;}
+.st1{ margin-top: 0px; color: rgb(0, 0, 0); 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif  }
+.mountainimg{ padding-top: 100px;
+    height: 400px;
+    padding-top: 80px;
+    padding-bottom: 20px;}
+h2{ margin-top: 0px;
+    font-size:40px ;}
+iframe{ width: 800px;
+        height: 800px;}
+      .Hobbies{ text-align: left;
+
+      }  
+
+
+
+
+
+
